@@ -1,4 +1,4 @@
-![350E80A6-5392-42C4-82F7-0CED2150CAD3](https://user-images.githubusercontent.com/98426972/161291153-c8b74bfd-7cd8-4d1c-8a4d-ff46ad398cf0.gif)
+
 ![2A056208-AF69-454D-AA9D-F9FFC3F8EFB8](https://user-images.githubusercontent.com/98426972/161291168-7cc1f240-5369-4895-a55d-bee14f4dc28f.gif)
 ![E7BC2900-4FBC-4A02-BD91-026AFCC7C674](https://user-images.githubusercontent.com/98426972/161273064-60f3c57c-6c58-4b68-9100-1c794d367573.gif)
 # SirAlexBigBrain
