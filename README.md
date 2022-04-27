@@ -9,6 +9,16 @@ I'm a bee. Buzz Buzz. We’ve been trying to reach you about your car’s extend
 
 \- *@*__SirAlexBigBrain (The Bee)__
 
+
+ # Things I am Doing:
+ 
+ - [ ] GrassBandits (almost done)
+ 
+ - [ ] Phython (not even close)
+ 
+ - [ ] BASH (not even close)
+ 
+
 ```
 print(" This is this cat.
         This is is cat.
