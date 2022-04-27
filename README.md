@@ -9,4 +9,21 @@ I'm a bee. Buzz Buzz. We’ve been trying to reach you about your car’s extend
 
 \- *@*__SirAlexBigBrain (The Bee)__
 
+```
+print(" This is this cat.
+        This is is cat.
+        This is how cat.
+        This is to cat.
+        This is keep cat.
+        This is an cat.
+        This is idiot cat.
+        This is busy cat.
+        This is for cat.
+        This is forty cat.
+        This is seconds cat. ")
+        ```
+- Now, go back and read the third word of each sentence.
 
+- LOL
+
+- Sucker!
