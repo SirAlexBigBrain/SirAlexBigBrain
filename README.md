@@ -5,8 +5,7 @@
 <img width="357" alt="3D960CA7-5B67-4831-A131-5DFFAB42209D-removebg-preview" src="https://user-images.githubusercontent.com/98426972/165574348-774380e2-e2d2-4e9c-962a-680ba587a6a5.png">
 <img width="461" alt="CD2B18FA-1E1E-479F-8869-71BA535766D4-removebg-preview" src="https://user-images.githubusercontent.com/98426972/165562880-2c900f07-6fdb-4e55-b0f6-751ad5fdd234.png">
 
-# ![B05FA7C5-7CA1-4292-AB79-7CE153D454A8](https://user-images.githubusercontent.com/98426972/165801315-3ab55f68-3894-4df9-8f85-89a08d89d22c.gif)
-SirAlexBigBrain
+## SirAlexBigBrain
 
 I'm a bee. Buzz Buzz. We’ve been trying to reach you about your car’s extended warranty. This person’s voicemail box has not been set up yet. Please leave a message at the BEEP!
 
