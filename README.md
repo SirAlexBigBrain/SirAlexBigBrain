@@ -23,11 +23,11 @@ I'm a bee. Buzz Buzz. We’ve been trying to reach you about your car’s extend
 
  # Things I am Doing:
  
- - [ ] GrassBandits (almost done)
+## - [ ] GrassBandits (almost done)
  
- - [ ] Phython (not even close)
+   - [ ] Phython (not even close)
  
- - [ ] BASH (not even close)
+   - [ ] BASH (not even close)
  
 
 ```
