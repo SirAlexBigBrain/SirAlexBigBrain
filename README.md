@@ -57,3 +57,6 @@ print(" This is this cat.
 
 ![B3834D45-D268-4CBD-BCB7-44ECF9CB6A7E](https://user-images.githubusercontent.com/98426972/167451958-f37c6881-e296-4ab1-b472-9466358a66e9.jpeg)
 
+### Some Paradox (©Hardwaregore)
+![11BD6477-8E34-44EB-B883-573506E9003E](https://user-images.githubusercontent.com/98426972/167462961-a2ec3f38-ceb5-4d9a-a0fd-fe174522c59c.jpeg)
+
